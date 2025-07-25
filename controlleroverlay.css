@@ -4,7 +4,8 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.ds4{
-    background: url(https://raw.githubusercontent.com/TescoBigMac/ps5bigmac/refs/heads/main/minion-controller.png);
+    background: url(https://raw.githubusercontent.com/TescoBigMac/ps5bigmac/main/minion-controller.png
+);
     width: 794px;
     height: 639px;
     margin-left: 0;
